@@ -5,3 +5,4 @@ Day 57 - URL Building and Templating with Jinja in Your Flask Application
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (03/07/2024); update tomorrow.
+    Finished practice (04/07/2024): updated.
